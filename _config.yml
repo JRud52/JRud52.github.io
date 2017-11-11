@@ -7,7 +7,7 @@ url                          : "https://JRud52.github.io" # the base hostname & 
 blog:
   title                      : JRud52
   description                  : >
-                               this should contain a proper description
+                               Made with love and Github
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
@@ -20,19 +20,19 @@ blog:
   titles_only                : false # show post titles only on main blog page
 
 # Fonts
-  font                       : '"Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
-  load_google_fonts          : 'Rubik:400,400italic,700,700italic'
+  font                       : '"Roboto", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
+  load_google_fonts          : 'Roboto:400,400italic,700,700italic'
 
 
 # Author info
 author:
   fullname                  : Justin Rhude
-  rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : JRud52
+  rss                       : # generate RSS feed and show it's icon in header
+  mail                      : # change to your e-mail address
+  twitter                   : # twitter
   github                    : JRud52
-  youtube                   : JRud52
-  stackoverflow             : JRud52
+  youtube                   : # youtube username
+  stackoverflow             : # stack overflow username
   disqus                    : # your_disqus_forum_shortname
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/me2.png"
